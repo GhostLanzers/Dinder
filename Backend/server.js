@@ -8,7 +8,7 @@ app.use(express.json());
 // Get your Gemini API key from environment variables
 const GEMINI_API_KEY = process.env.API_KEY;
 const corsOptions = {
-  origin: "http://localhost:5173", 
+  origin: "https://dinder-app-gjpv.onrender.com", 
   methods: "GET,POST", 
   allowedHeaders: ["Content-Type", "Authorization"], 
 };
