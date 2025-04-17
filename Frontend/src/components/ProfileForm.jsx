@@ -68,7 +68,7 @@ export default function ProfileForm() {
     try {
       
       const finalDesc = await axios({
-        url: "http://localhost:3000/generate-profile",
+        url: "https://dinder-app-backend.onrender.com/generate-profile",
         method: "POST",
         headers: {
           "Content-Type": "application/json",
