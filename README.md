@@ -5,7 +5,7 @@ Dinder is an AI-powered dating profile generator that helps users create witty, 
 ## 🌐 Live Demo
 
 - **Frontend:** [https://dinder-app-gjpv.onrender.com/](https://dinder-app-gjpv.onrender.com/)
-- **Backend:** *(Add deployment URL here if available)*
+- **Backend:** [(https://dinder-app-backend.onrender.com)](https://dinder-app-backend.onrender.com)
 
 ---
 
